@@ -5,3 +5,4 @@ creation of first repo
 
 
 #hello world!
+skořím v pekle 
